@@ -1,0 +1,22 @@
+# .gitignore for .NET projects
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.db
+*.docx
+.vscode/
+.env
+*.sqlite
+*.sqlite3
+*.pdb
+*.cache
+*.log
+*.vs/
+TestResults/
+/.idea/
+/.vs/
+/.DS_Store
+Thumbs.db
